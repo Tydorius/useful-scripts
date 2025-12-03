@@ -15,6 +15,7 @@
     Author:   Tydorius
     Version:  1.0
     Date:     December 3, 2025
+    License:  CC BY-NC 4.0
 #>
 param(
     [Parameter(Mandatory=$false, HelpMessage="Enter the root path to scan.")]
