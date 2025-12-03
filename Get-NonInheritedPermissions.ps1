@@ -11,6 +11,10 @@
 .PARAMETER rootPath
     The root path to start scanning for non-inherited permissions.
     If not provided, the script will prompt for the path.
+.Notes
+    Author:   Tydorius
+    Version:  1.0
+    Date:     December 3, 2025
 #>
 param(
     [Parameter(Mandatory=$false, HelpMessage="Enter the root path to scan.")]
